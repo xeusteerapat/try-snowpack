@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
-  "start": "snowpack dev",
+  "scripts": {
+    "start": "snowpack dev"
+  },
   "devDependencies": {
     "snowpack": "^3.0.11"
   }
