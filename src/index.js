@@ -16,7 +16,7 @@ subResult.textContent += sub45;
 mulResult.textContent += mul45;
 divResult.textContent += div45;
 
-const duration = 15 * 1000;
+const duration = 30 * 1000;
 const animatedEnd = Date.now() + duration;
 const defaults = {
   startVelocity: 30,
